@@ -1,2 +1,5 @@
 # MNIST_Digit_Recognizer
 MNIST digit recognizer based on Fast AI
+
+
+This is based on Fast AI library Lesson 1( Dogs Vs Cats) using resnet 34 pre-trained model with help from A Beginner's Approach to Classification by archaeocharlie & MNIST test with fastai library by Stefan Langenbach
